@@ -1,6 +1,0 @@
-put on github
-documentation for eclipse configuration : pref maven + maven special files
-
-import cert into keystore
-add auditing
-spring boot actuator?
