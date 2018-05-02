@@ -1,0 +1,12 @@
+
+
+${AnsiColor.RED}Application ID:
+${AnsiColor.RED}  Name:        ${application.name}
+${AnsiColor.RED}  Description: ${application.description}
+${AnsiColor.RED}  GroupId:     ${application.groupId}
+${AnsiColor.RED}  ArtifactId:  ${application.artifactId}
+${AnsiColor.GREEN}  Version:     ${application.version}
+
+${AnsiColor.GREEN}Spring boot version: ${spring-boot.version}
+${AnsiColor.GREEN}Sever port : ${server.port}
+${AnsiColor.DEFAULT}
